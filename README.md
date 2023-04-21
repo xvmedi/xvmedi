@@ -2,6 +2,7 @@
 ----
 
 <img alt="Globe" height="80" src="worldspin.gif">
+<img alt="name" height="80" src="name.gif">
 
 
 ----
