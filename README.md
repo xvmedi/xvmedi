@@ -6,8 +6,8 @@
 
 ----
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=java&label=&message=java&color=36465D&logoColor=AAA&style=flat-square&link=)
-
+![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=36465D&logoColor=AAA&style=flat-square&link=)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 <!--
 **xvmedi/xvmedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
