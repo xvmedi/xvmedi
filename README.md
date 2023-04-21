@@ -1,7 +1,7 @@
 ### Hi there 👋
 ----
 
-
+<img alt="Globe" height="80" src="worldspin.gif">
 
 
 ----
