@@ -1,7 +1,7 @@
 ### Hi there 👋
 ----
 
-&nbsp;<img alt="Globe" height="80" src="worldspin.gif"><img alt="name" height="80" src="name.gif"><img alt="me" height="80" src="me.jpg">
+&nbsp; <img alt="Globe" height="80" src="worldspin.gif"><img alt="name" height="80" src="name.gif"><img alt="me" height="80" src="me.jpg">
 
 
 
